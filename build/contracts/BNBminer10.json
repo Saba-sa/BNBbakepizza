@@ -11587,12 +11587,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x75306b9a091d9D510f213e1455BD03b3A45D44b9",
-      "transactionHash": "0x2f07885ba4b81333acfcf74ea196e12a02a4711f6067a9541c59a2f1a16d3788"
+      "address": "0x59c1429b504A70Ff328c189b5001Ba6Bf7fE677D",
+      "transactionHash": "0x19d9d46628cc4bec81dc08f2b209c261a68b4a8a9788a77906fcf92960556bb8"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-01-12T06:10:02.639Z",
+  "updatedAt": "2025-01-13T12:38:07.675Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
